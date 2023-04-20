@@ -13,8 +13,8 @@ I enjoy participating in online cybersecurity communities and contributing to op
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## where to find me ^_^ 
+<table><tr><td valign="top" width="100%">
 
 
 
