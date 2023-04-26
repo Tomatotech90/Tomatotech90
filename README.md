@@ -25,9 +25,7 @@ I enjoy participating in online cybersecurity communities and contributing to op
 - HTB " Ketchupsauce80 #1028599" [Hack the box](https://app.hackthebox.com/profile/settings)  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathan-m-858b361a7" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  
 
 
 </td><td valign="top" width="50%">
