@@ -19,7 +19,7 @@ I enjoy participating in online cybersecurity communities and contributing to op
 
 
 ### where to find me ^_^  
-- IBM collections: [IBM]([https://exchange.xforce.ibmcloud.com/collection?tab=mine](https://exchange.xforce.ibmcloud.com/activity/map))                                                                      
+- IBM collections: [IBM](https://exchange.xforce.ibmcloud.com/collection?tab=mine](https://exchange.xforce.ibmcloud.com/activity/map)                                                                      
   
 
 - HTB " Ketchupsauce80 #1028599" [Hack the box](https://app.hackthebox.com/profile/settings)  
