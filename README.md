@@ -1,13 +1,9 @@
 
 
 ### Hello there  
-I am a security analyst with a strong background in computer science and have always been interested in cybersecurity.
+I build tools and contribute to projects centered on threat hunting, ransomware and malware analysis, and securing networks and systems. My work includes creating scripts for vulnerability assessments, designing security-focused applications, and analyzing network data to support robust defenses.
 
-I identify and mitigate security threats to an organization's networks and systems in my current role. This involves conducting vulnerability assessments, analyzing network traffic, and implementing security measures to protect against cyber attacks.
-
-I have strong attention to detail and enjoy problem-solving, which makes me well-suited for this type of work. I constantly learn and stay up-to-date on the latest security trends and technologies.
-
-I enjoy participating in online cybersecurity communities and contributing to open-source security projects in my spare time. I am passionate about helping others learn about and improve their cybersecurity posture.  
+I enjoy solving complex technical challenges and continuously improving my coding skills through hands-on projects and collaboration.  
   
 
 <br/>  
