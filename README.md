@@ -1,98 +1,90 @@
+**Tomatotech90**
+`security researcher · threat hunter · krakenio.tech`
 
+I build tools and contribute to projects centered on threat hunting, ransomware and malware analysis, and securing networks and systems. My work includes static analysis tooling, vulnerability assessment scripts, phishing infrastructure teardowns, and network data analysis to support defensive intelligence.
 
-### Hello there  
-I build tools and contribute to projects centered on threat hunting, ransomware and malware analysis, and securing networks and systems. My work includes creating scripts for vulnerability assessments, designing security-focused applications, and analyzing network data to support robust defenses.
+[![HTB](https://img.shields.io/badge/HTB-Ketchupsauce80_%231028599-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1028599)
+[![IBM X-Force](https://img.shields.io/badge/IBM_X--Force-Collections-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://exchange.xforce.ibmcloud.com/activity/map)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-m-858b361a7/)
+[![KrakenIO](https://img.shields.io/badge/KrakenIO-krakenio.tech-b91c1c?style=flat-square)](https://krakenio.tech)
 
-I enjoy solving complex technical challenges and continuously improving my coding skills through hands-on projects and collaboration.  
-  
+---
 
-<br/>  
+```
+// focus
+→ malware & PE static analysis          → phishing infrastructure analysis
+→ ransomware group tracking             → honeypot & deception systems
+→ IOC development & threat hunting      → vulnerability assessment tooling
+```
 
+---
 
-## where to find me ^_^ 
-<table><tr><td valign="top" width="100%">
+**// stack**
 
+`python` `bash` `c` `c++` &nbsp;·&nbsp; `javascript` `typescript` `c#` `java` `php` &nbsp;·&nbsp; `docker` `linux` `aws` `flask` `mysql` `mongodb`
 
+---
 
-### where to find me ^_^  
-- IBM collections: [IBM](https://exchange.xforce.ibmcloud.com/activity/map)                                                                      
-  
+**// writing — [krakenio.tech](https://krakenio.tech)**
 
-- HTB " Ketchupsauce80 #1028599" [Hack the box](https://app.hackthebox.com/profile/settings)  
-  
+*research*
 
-- Linkedin "Jonathan M" [Linkedin](https://www.linkedin.com/in/jonathan-m-858b361a7/)
-  
+| | title | tags |
+|---|---|---|
+| phishing | [Anatomy of a Sophisticated Phishing Campaign: usps.otognluguws.top](https://krakenio.tech/collections/research/Anatomy_of_a_Sophisticated_Phishing_Campaign.pdf) | DNS infrastructure · domain impersonation |
+| infra | [Malicious IP Associated with 60+ Subdomains: 47.251.33.8](https://krakenio.tech/collections/research/Malicious_IP_Associated_with_more_than_60_Subdomains.pdf) | Alibaba Cloud · subdomain abuse |
+| platform | [The Dual-Edged Sword of Cloudflare Workers](https://krakenio.tech/collections/research/cloudflareworkers.pdf) | serverless phishing · architecture analysis |
+| OSINT | [The Risk of Day in the Life](https://krakenioarchives.com/api/public/dl/49aUU1n8?inline=true) | deepfake fraud · social engineering |
+| squatting | [USPS Squatting Campaign — vxhbs.cfd](https://krakenio.tech/collections/research/USPS_Squatting_Campaign.pdf) | domain squatting · smishing |
+| domain abuse | [Fake USPS Scam Using Brazilian Government Domain](https://krakenioarchives.com/api/public/dl/k5ay_gQM?inline=true) | gov domain hijack · phishing |
+| fraud | [Likes and Cards: Instagram's Algorithm and Carding](https://krakenioarchives.com/api/public/dl/YZg1cZRQ?inline=true) | platform abuse · financial fraud |
+| phishing | [Six Pivotal Phishing Scams: IP & Hosting Analysis](https://krakenioarchives.com/api/public/dl/0Igm1Vnt?inline=true) | infrastructure mapping · USPS/Walmart |
+| domain abuse | [Fake USPS Scam Using Argentina's Domain](https://krakenioarchives.com/api/public/dl/knVtoReV?inline=true) | domain squatting |
+| multi-brand | [Phishing via Turkish School Domain — eBay & USPS](https://krakenioarchives.com/api/public/dl/vajLAJm6?inline=true) | domain hijack · brand impersonation |
 
-  
+*articles*
 
+| | title | tags |
+|---|---|---|
+| ransomware | [Deciphering Medusa's Trend on Schools and Healthcare](https://krakenio.tech/collections/articles/Shadows_in_the_System_Deciphering_Medusas_Trend_on_Schools_and_Healthcare.pdf) | 21+ institutions · TTPs |
+| CVE | [Understanding CVE-2024-6387: regreSSHion](https://krakenio.tech/collections/articles/article8.html) | OpenSSH · glibc · unauthenticated RCE |
+| espionage | [Lazarus Group's Sapphire Sleet Targets IT Job Seekers](https://krakenio.tech/collections/articles/article2.html) | DPRK · fake assessments |
+| incident | [MGM Hack: OPSEC Failures Amidst Advanced Cyber Threats](https://krakenio.tech/collections/articles/article1.html) | Scattered Spider · social engineering |
+| supply chain | [XZ Utils: Navigating Software Supply Chain Security](https://krakenio.tech/collections/articles/article3.html) | open source · backdoor |
+| ransomware | [The Saga of LockBit](https://krakenio.tech/collections/articles/The_saga_of_LockBit_and_the_vacuum_behind_lockbit_takedown_2.pdf) | takedown · ecosystem vacuum |
+| ransomware | [LockBit & the Evolve Bank Data Breach](https://krakenio.tech/collections/articles/article9.html) | RaaS · financial sector |
+| incident | [CrowdStrike Crisis: Lessons in Resilience](https://krakenio.tech/collections/articles/article12.html) | vendor risk · global outage |
+| incident | [Legal & Economic Fallout from CrowdStrike Outage](https://krakenio.tech/collections/articles/article11.html) | legal impact · business continuity |
+| incident | [Faulty CrowdStrike Update Causes Global Outage](https://krakenio.tech/collections/articles/article10.html) | incident breakdown |
+| DNS | [Comprehensive Guide to TLD Hijacking and Domain Security](https://krakenio.tech/collections/articles/article13.html) | DNS · brand protection |
+| hacktivism | [Unpacking SiegedSec's Recent Campaigns](https://krakenioarchives.com/api/public/dl/YL6jH5Jf?inline=true) | #OpIsrael · NATO |
+| fraud | [North Korean I.T. Workers Exploiting U.S. Job Markets](https://krakenio.tech/collections/articles/article6.html) | DPRK · insider threat |
+| policy | [Cybersecurity in the Era of Remote Work](https://krakenio.tech/collections/articles/article5.html) | remote work · attack surface |
+| incident | [London Drugs Systemic Shutdown Across Western Canada](https://krakenio.tech/collections/articles/article4.html) | retail · ransomware |
+| healthcare | [Critical Care: Cybersecurity with Legacy Equipment](https://krakenioarchives.com/api/public/dl/EGR4OJ6b?inline=true) | OT · patient safety |
+| policy | [Non-Disclosure of Ransomware Attacks in Corporate Environments](https://krakenioarchives.com/api/public/dl/wg5vvcnS?inline=true) | transparency · risk |
+| policy | [Assessing SMB Cybersecurity in the Middle East](https://krakenioarchives.com/api/public/dl/ocwW-fCP?inline=true) | regional analysis · gaps |
+| policy | [Deep Dive into the Right to Repair](https://krakenioarchives.com/api/public/dl/Tzv5uVWr?inline=true) | consumer rights · legislation |
+| privacy | [The Smoke and Mirrors of Data Deletion](https://krakenioarchives.com/api/public/dl/z0QB7rHD?inline=true) | data privacy · digital fingerprinting |
+| CDK | [Cyberattacks on CDK Global](https://krakenio.tech/collections/articles/article7.html) | automotive · supply chain |
+| OS | [Windows 11 Challenges for Legacy Devices](https://krakenioarchives.com/api/public/dl/80GevPGi?inline=true) | compatibility · enterprise risk |
 
-</td><td valign="top" width="50%">
+---
 
+**// find me ^_^**
 
+```
+htb   app.hackthebox.com/profile/1028599  —  Ketchupsauce80 #1028599
+ibm   exchange.xforce.ibmcloud.com/activity/map
+in    linkedin.com/in/jonathan-m-858b361a7
+```
 
-</td></tr></table>  
+---
 
-<br/>  
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomatotech90&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=b91c1c&icon_color=b91c1c)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomatotech90&hide_border=true&layout=compact&theme=default&title_color=b91c1c)
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tomatotech90&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomatotech90&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Tomatotech90&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
