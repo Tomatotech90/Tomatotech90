@@ -1,7 +1,7 @@
 **Tomatotech90**
 `security researcher · threat hunter · krakenio.tech`
 
-I build tools and contribute to projects centered on threat hunting, ransomware and malware analysis, and securing networks and systems. My work includes static analysis tooling, vulnerability assessment scripts, phishing infrastructure teardowns, and network data analysis to support defensive intelligence.
+I build tools and contribute to projects focused on threat hunting, ransomware and malware analysis, and network and system security. My work includes static analysis tooling, vulnerability assessment scripts, phishing infrastructure teardowns, and network data analysis to support defensive intelligence.
 
 [![HTB](https://img.shields.io/badge/HTB-Ketchupsauce80_%231028599-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1028599)
 [![IBM X-Force](https://img.shields.io/badge/IBM_X--Force-Collections-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://exchange.xforce.ibmcloud.com/activity/map)
